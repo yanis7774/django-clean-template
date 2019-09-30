@@ -1,17 +1,10 @@
-logs/
-**/node_modules/
-**/.DS_Store
-.idea/
-**/__pycache__
-*.aux
-*.log
-*.pickle
-*.db
-*.rdb
-*.pid
-*.toc
-*.out
-*.pickle
-celerybeat-schedule                                                                     
-.ipynb_checkpoints
-env/
+# File konfigurasi IDE
+# ---------------------
+/nbproject/
+.idea/*
+# File cache Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
